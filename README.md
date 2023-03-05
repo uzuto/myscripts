@@ -1,2 +1,2 @@
 # myscripts
-Scripts taken from here and there
+Scripts that I use
